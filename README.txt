@@ -58,7 +58,6 @@ Don't use theta for the transhipment nodes and don't introduce dummy supply/dema
 Mind this on solving your questions.
     - You can use the makeDict() function of Pulp to prepare data for the LP Models
 
-Data for the Student No: 2020402156
 no_of_plants = 4
 no_of_distributors = 3
 no_of_retailers = 4
